@@ -177,20 +177,6 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
-        <members>Nonprofit_Edition_Reports</members>
-        <members>Nonprofit_Edition_Reports/Individual_Organization_LYBUNT_Report</members>
-        <members>Nonprofit_Edition_Reports/Individual_Organization_SYBUNT_Report</members>
-        <members>Nonprofit_Edition_Reports/Organization_LYBUNT_Report</members>
-        <members>Nonprofit_Edition_Reports/Organization_SYBUNT_Report</members>
-        <name>Report</name>
-    </types>
-    <types>
-        <members>es</members>
-        <members>fr</members>
-        <members>ja</members>
-        <name>Translations</name>
-    </types>
-    <types>
         <members>OppPayment__c.Schedule_Payments</members>
         <members>OppPayment__c.Writeoff_Payments</members>
         <members>Opportunity.Matching_Donation</members>
